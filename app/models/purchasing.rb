@@ -1,0 +1,2 @@
+class Purchasing < ApplicationRecord
+end

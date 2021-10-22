@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alcohol: 1
+  equipment: 1
+
+two:
+  alcohol: 1
+  equipment: 1
